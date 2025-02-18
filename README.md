@@ -53,6 +53,7 @@
 
 #### GitHub Actions 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Reza Nazari](https://github.com/reza-nzri)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
@@ -120,6 +121,7 @@
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
+- [Reza Nazari](https://github.com/reza-nzri)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -141,6 +143,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [Reza Nazari](https://github.com/reza-nzri)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -153,6 +156,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
+- [Reza Nazari](https://github.com/reza-nzri)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
@@ -188,6 +192,7 @@
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
+- [Reza Nazari](https://github.com/reza-nzri)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
@@ -259,6 +264,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Reza Nazari](https://github.com/reza-nzri)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
@@ -270,6 +276,7 @@
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 - [Valentin Briand](https://github.com/vbriand/vbriand)
+- [Reza Nazari](https://github.com/reza-nzri)
 
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
