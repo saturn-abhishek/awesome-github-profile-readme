@@ -104,6 +104,7 @@
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
+- [Marian Golubev](https://github.com/mario-amazing)
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
