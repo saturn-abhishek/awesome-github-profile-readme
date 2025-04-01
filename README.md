@@ -153,6 +153,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
+- [Saikat Karmakar](https://github.com/Aviksaikat)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
