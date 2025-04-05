@@ -250,6 +250,7 @@
 #### Badges 🎫
 - [Harish Kumar S S](https://github.com/harish-sethuraman/harish-sethuraman)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
+- [Gokul AP](https://github.com/gokulapap/gokulapap)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
 - [Alwin Wang](https://github.com/alwinw/alwinw)
 - [Moshfiq Rony](https://github.com/moshfiqrony/moshfiqrony)
