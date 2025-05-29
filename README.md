@@ -85,6 +85,7 @@
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
 
 #### Game Mode 🚀
+- [Luiz V](https://github.com/luizv/luizv)
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 - [Kavish Hukmani](https://github.com/DoubleGremlin181/DoubleGremlin181)
