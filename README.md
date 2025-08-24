@@ -259,6 +259,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [HiMeditator](https://github.com/HiMeditator)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
