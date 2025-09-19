@@ -128,6 +128,7 @@
 - [Rafnix Guzmán](https://github.com/rafnixg/rafnixg)
 - [Aditya Pal](https://github.com/sciencepal/sciencepal)
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
+- [Imran Baitham](https://github.com/imran-baitham/imran-baitham)
 - [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
 - [Khaleel Gibran](https://github.com/khalby786/khalby786)
 - [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi)
