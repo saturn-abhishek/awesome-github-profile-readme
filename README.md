@@ -197,6 +197,7 @@
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
+- [Usuaryo](https://github.com/Usuy-Leon)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 - [Kelechi Precious Nwachukwu](https://github.com/PluckyPrecious/PluckyPrecious)
 - [Ghazi Khan](https://github.com/gkhan205)
