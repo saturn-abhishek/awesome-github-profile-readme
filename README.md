@@ -246,6 +246,8 @@
 - [Akash Rai](https://github.com/akasrai/akasrai)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
+- [Pratyush Mishra](https://github.com/pratyushmishra9920-ship-it)
+
 
 #### Badges 🎫
 - [Harish Kumar S S](https://github.com/harish-sethuraman/harish-sethuraman)
