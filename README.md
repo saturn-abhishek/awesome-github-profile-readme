@@ -141,6 +141,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [Pombo](https://github.com/jmiguelrivas/jmiguelrivas)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -153,6 +154,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
+- [Pombo](https://github.com/jmiguelrivas/jmiguelrivas)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
