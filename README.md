@@ -218,6 +218,7 @@
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
 
 #### GIFS 👻
+- [Armin Kazemi](https://github.com/arminkz/arminkz)
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
