@@ -278,7 +278,6 @@
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
-- [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
 - [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
@@ -304,7 +303,6 @@
 - [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - Dynamically generated your StackOverflow profile status on your GitHub readmes!
 - [StackOverflow Stats Badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this Unique StackOverflow Badge!
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
-- [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [Github Readme Twitter](https://github.com/gazf/github-readme-twitter) - Show your latest tweet on your readmes.
@@ -327,13 +325,13 @@
 - ["How to create an awesome GIF for your GitHub Profile README"](https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n) - *Satvik Chachra*
 - ["Create a special repository in your GitHub Profile 🔨, supported and unsupported features"](https://torrocus.com/blog/special-github-repository/) - *Alex Malaszkiewicz*
 - ["How to create a Github Profile README with Dynamic Github Stats"](https://codewithghazi.com/how-to-create-a-github-profile-readme-with-dynamic-github-stats/) - *Ghazi Khan*
-- ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
+- ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile) - *Michael Hoffmann (Mokkapps)*
 - ["Building a self-updating profile README for GitHub"](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - *Simon Willison*
 - ["How to create an interactive README for your GitHub profile"](https://kavishhukmani.me/github-profile-interactive-readme-tutorial/) - *Kavish Hukmani*
 - ["什么？Github 居然可以这么玩？"](https://zhuanlan.zhihu.com/p/161705999) - *Tw93*
 - ["Getting started with Markdown Badges"](https://dev.to/ileriayo/mardown-badges-2og0) - *Ileriayo Adebiyi*
 - ["Show your latest dev.to posts automatically on your GitHub profile readme"](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)  - *Gautam krishna R*
-- ["How I Built A Self-Updating README by Webhooks and Netlify Functions"](https://github.com/RaoHai/RaoHai/blob/master/How-I-Built-A-Self-Updating-README-by-Webhooks-and-Netlify-Functions.md/) - *Rao Hai*
+- ["How I Built A Self-Updating README by Webhooks and Netlify Functions"](https://www.yuque.com/luchen/buzhou/hga8n6) - *Rao Hai*
 - ["Build a Stunning README For Your GitHub Profile"](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) - *Martin Heinz*
 - ["How I added my Spotify statistics to my GitHub readme 📜"](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd) - *Akshit Garg*
 - ["Static Readme Regeneration"](https://dev.to/aralroca/static-readme-regeneration-4pf2) - *Aral Roca*
@@ -343,7 +341,6 @@
 ## Tutorials
 - ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
 - ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
-- ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
 - ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
 
