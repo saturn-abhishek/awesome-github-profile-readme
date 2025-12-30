@@ -195,6 +195,9 @@
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
 
+### SVG Animations
+- [SystemVII](https://github.com/SystemVll)
+
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
