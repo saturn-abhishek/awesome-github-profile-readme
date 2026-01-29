@@ -102,6 +102,7 @@
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
+- [Vaibhaw Kumar](https://github.com/TheVaibhaw)
 
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
