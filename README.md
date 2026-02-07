@@ -142,7 +142,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
-- - [fr297](https://github.com/fr297) 
+- [fr297](https://github.com/fr297) 
 
 
 #### Descriptive 🗒
