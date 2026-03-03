@@ -25,28 +25,30 @@
 </div>
 
 ### Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Categories](#categories)
+    - [GitHub Actions 🤖](#github-actions-)
+    - [Game Mode 🚀](#game-mode-)
+    - [Code Mode 👨🏽‍💻](#code-mode-)
+    - [Dynamic Realtime 💫](#dynamic-realtime-)
+    - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+    - [Descriptive 🗒](#descriptive-)
+    - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+    - [Typing.. Mode 🎰](#typing-mode-)
+    - [Anime 👾](#anime-)
+    - [Minimalistic ✨](#minimalistic-)
+    - [GIFS 👻](#gifs-)
+    - [Just Images 🎭](#just-images-)
+    - [Badges 🎫](#badges-)
+    - [Fancy Fonts 🖋](#fancy-fonts-)
+    - [Icons 🎯](#icons-)
+    - [Retro 😎](#retro-)
+    - [AI Generated 🤖](#ai-generated-)
+- [Tools](#tools)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Contribute](#contribute)
+- [Special Thanks 🙇](#special-thanks-)
+- [License](#license)
 
 
 ## Categories
@@ -275,6 +277,29 @@
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
+
+#### AI Generated 🤖
+- [R0CKSTAR](https://github.com/yeahdongcn/yeahdongcn)
+  - LLM: [Claude Sonnet 4](https://www.anthropic.com/claude/sonnet) with Agent Mode
+  - Prompt:
+    ```markdown
+    Browse [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) and study at least 20 diverse profile examples. Focus on identifying:
+
+    * Creative layout patterns and visual hierarchy
+    * Effective usage of badges, GitHub stats, and visual elements
+    * Interactive or animated components
+    * Personal branding strategies and storytelling techniques
+
+    Then, review my GitHub profile at [https://github.com/yeahdongcn](https://github.com/yeahdongcn). Use the insights from my recent activity over the past 4 weeks **(excluding my profile README repo and GitHub Pages repo)** to gather relevant data and context.
+
+    Based on this, create a **professionally crafted GitHub profile README.md** that includes:
+
+    * Clean, well-structured Markdown
+    * Visual enhancements (e.g., emojis, Shields.io badges, proper spacing)
+    * A tone that reflects my professional level and persona
+
+    The final output should be a comprehensive, visually appealing, and informative README.md ready to be added to my GitHub profile.
+    ```
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
