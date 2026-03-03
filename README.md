@@ -298,6 +298,7 @@
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Profile README Widgets](https://github.com/marketplace/actions/profile-readme) - Add simple widgets to your profile readme.
 - [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) - Generate your Spotify now playing card for your GitHub profile
+- [Last.fm Github Profile](https://github.com/VLADos-IT/lastfm-github-profile) - Display your current Last.fm Obsession or Top Track in your GitHub profile
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Add badges to your profile.
 - [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
 - [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin) - Get dynamically generated images from your LinkedIn profile on your GitHub readmes
