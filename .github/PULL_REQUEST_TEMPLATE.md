@@ -1,6 +1,5 @@
 ## What type of PR is this? (check all applicable)
 
-
 - [ ] 🚀 Added Name
 - [ ] ✨ Feature
 - [ ] ✅ Joined Community
@@ -10,7 +9,6 @@
 - [ ] 🚩 Other
 
 ## Description
-
 
 
 ## Add Link of GitHub Profile
