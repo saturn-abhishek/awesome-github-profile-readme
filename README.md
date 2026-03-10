@@ -195,6 +195,7 @@
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
+- [Goku](https://github.com/gokhansarapevi/gokhansarapevi)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
