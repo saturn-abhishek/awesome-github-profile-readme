@@ -129,6 +129,7 @@
 - [Aditya Pal](https://github.com/sciencepal/sciencepal)
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
 - [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
+- [Pankeking](https://github.com/Pankeking/Pankeking)
 - [Khaleel Gibran](https://github.com/khalby786/khalby786)
 - [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi)
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
