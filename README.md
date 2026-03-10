@@ -1,4 +1,4 @@
-<h1 align="center">Awesome GitHub Profile README
+<h1 align="center">Awesome GitHub Profile READMEs
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -20,7 +20,7 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<i>Love the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
 
 </div>
 
