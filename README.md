@@ -56,6 +56,7 @@
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
+- [TED Vortex](https://github.com/0-vortex/0-vortex)
 - [Simon Willison](https://github.com/simonw/simonw)
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
 - [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
