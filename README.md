@@ -100,6 +100,7 @@
 - [Anmol Singh](https://github.com/anmol098/anmol098)
 - [Kiho](https://github.com/monkindey/monkindey)
 - [Marton](https://github.com/martonlederer/martonlederer)
+- [Nikita Babko](https://github.com/nikitababko/nikitababko)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
