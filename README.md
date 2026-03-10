@@ -260,6 +260,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Adyuta](https://github.com/adyuta447/adyuta447)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
