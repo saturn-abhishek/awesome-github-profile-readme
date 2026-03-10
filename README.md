@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [Abdullan Al Redwam](https://github.com/redwiat/redwiat)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
