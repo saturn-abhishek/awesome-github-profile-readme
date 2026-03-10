@@ -60,6 +60,7 @@
 - [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
 - [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
 - [Athul Cyriac Ajay](https://github.com/athul/athul)
+- [Gapur Kassym](https://github.com/Gapur/Gapur)
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
 - [Leo](https://github.com/mopig/mopig)
