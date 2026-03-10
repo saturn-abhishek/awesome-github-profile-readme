@@ -130,6 +130,7 @@
 - [Hedy Li](https://github.com/hedythedev/hedythedev)
 - [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
 - [Khaleel Gibran](https://github.com/khalby786/khalby786)
+- [Lin Thit](https://github.com/LinThit27)
 - [Apoorv Tyagi](https://github.com/apoorvtyagi/apoorvtyagi)
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
