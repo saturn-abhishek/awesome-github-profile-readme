@@ -77,7 +77,7 @@
 - [Danny Koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen)
 - [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
 - [Rao Hai](https://github.com/RaoHai/RaoHai)
-- [Jatin Rao](https://github.com/jatin2003/jatin2003)
+- [Keshav Aggarwal](https://github.com/jovian-explorer/jovian-explorer)
 - [teoxoy](https://github.com/teoxoy/teoxoy)
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
