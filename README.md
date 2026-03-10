@@ -83,6 +83,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [Kulbhushan Chand](https://github.com/kulbhushanchand/kulbhushanchand)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
