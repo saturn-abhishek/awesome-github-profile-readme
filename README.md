@@ -25,28 +25,29 @@
 </div>
 
 ### Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Categories](#categories)
+    - [GitHub Actions 🤖](#github-actions-)
+    - [Game Mode 🚀](#game-mode-)
+    - [Code Mode 👨🏽‍💻](#code-mode-)
+    - [Dynamic Realtime 💫](#dynamic-realtime-)
+    - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+    - [Descriptive 🗒](#descriptive-)
+    - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+    - [Typing.. Mode 🎰](#typing-mode-)
+    - [Anime 👾](#anime-)
+    - [Minimalistic ✨](#minimalistic-)
+    - [GIFS 👻](#gifs-)
+    - [Just Images 🎭](#just-images-)
+    - [Badges 🎫](#badges-)
+    - [Fancy Fonts 🖋](#fancy-fonts-)
+    - [Icons 🎯](#icons-)
+    - [Retro 😎](#retro-)
+- [Tools](#tools)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Contribute](#contribute)
+- [Special Thanks 🙇](#special-thanks-)
+- [License](#license)
 
 
 ## Categories
@@ -260,6 +261,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Arijit Roy](https://github.com/radioactive11)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
@@ -318,6 +320,7 @@
 - [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+- [Apple Music Recently Played](https://github.com/radioactive11/apple-music-readme) - A card to show random album from your recents in Apple Music Library
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
