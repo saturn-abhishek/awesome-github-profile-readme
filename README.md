@@ -191,6 +191,7 @@
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
 
 #### Anime 👾
+- [alirealasad](https://github.com/alirealasad/alirealasad)
 - [Ing](https://github.com/innng/innng)
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
