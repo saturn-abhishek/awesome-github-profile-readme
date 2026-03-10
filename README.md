@@ -162,6 +162,7 @@
 - [Vansh Kapoor](https://github.com/vanshkapoor/vanshkapoor)
 - [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri)
 - [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu)
+- [Farouk Mestiri](https://github.com/Mestiri77/Mestiri77)
 - [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007)
 - [Anurag Singh](https://github.com/ashleymavericks/ashleymavericks)
 - [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
