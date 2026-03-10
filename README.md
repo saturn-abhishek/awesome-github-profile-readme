@@ -139,6 +139,7 @@
 - [Quin Knight](https://github.com/cheesits456/cheesits456)
 - [Jackyu-1999](https://github.com/Jackyu-1999/Jackyu-1999)
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
+- [Anass EZ-ZOUAINE](https://github.com/ansezz/ansezz)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
 - [Magrelaio](https://github.com/Magrelaio/Magrelaio)
