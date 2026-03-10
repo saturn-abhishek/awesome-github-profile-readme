@@ -54,6 +54,7 @@
 #### GitHub Actions 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
+- [formidablae](https://github.com/formidablae/formidablae)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 - [Simon Willison](https://github.com/simonw/simonw)
@@ -106,6 +107,7 @@
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [formidablae](https://github.com/formidablae/formidablae)
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
@@ -123,6 +125,7 @@
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
+- [formidablae](https://github.com/formidablae/formidablae)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
 - [Rafnix Guzmán](https://github.com/rafnixg/rafnixg)
