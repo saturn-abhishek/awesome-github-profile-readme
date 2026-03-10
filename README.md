@@ -26,6 +26,7 @@
 
 ### Contents:
   - [Categories](#categories)
+      - [Curriculum Vitae 📝](#curriculum-vitae-)
       - [GitHub Actions 🤖](#github-actions-)
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
@@ -50,6 +51,8 @@
 
 
 ## Categories
+#### Curriculum Vitae 📝
+- [EkoEdyPurwanto](https://github.com/EkoEdyPurwanto/EkoEdyPurwanto)
 
 #### GitHub Actions 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
