@@ -219,6 +219,7 @@
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
 
 #### GIFS 👻
+- [Gustavo Steinmetz](https://github.com/gustavostz/gustavostz)
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
@@ -263,6 +264,7 @@
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
+- [Gustavo Steinmetz](https://github.com/gustavostz/gustavostz)
 
 #### Icons 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
