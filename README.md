@@ -95,6 +95,7 @@
 - [marcizhu](https://github.com/marcizhu/marcizhu)
 
 #### Code Mode 👨🏽‍💻
+- [The Burning](https://github.com/The-Burning)
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
