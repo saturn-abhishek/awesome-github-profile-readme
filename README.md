@@ -258,6 +258,7 @@
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
 - [Char-Al](https://github.com/char-al/char-al)
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
+- [Md.Al-Amin](https://github.com/alamin-babu)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
 
