@@ -217,6 +217,7 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
+- [Lucas Paiva](https://github.com/lucas-fpaiva/lucas-fpaiva)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
