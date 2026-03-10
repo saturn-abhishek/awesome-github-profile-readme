@@ -181,6 +181,7 @@
 - [Onimur](https://github.com/onimur/onimur)
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
+- [Derek Mohr](https://github.com/OneMohrTime/OneMohrTime)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -189,6 +190,7 @@
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
+- [Derek Mohr](https://github.com/OneMohrTime/OneMohrTime)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
@@ -217,6 +219,7 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
+- [Derek Mohr](https://github.com/OneMohrTime/OneMohrTime)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
