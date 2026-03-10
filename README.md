@@ -234,6 +234,7 @@
 - [Kevin Cui](https://github.com/KevCui/KevCui)
 - [Muskan Rani](https://github.com/muskanrani/muskanrani)
 - [Rishav Anand](https://github.com/rishavanand/rishavanand)
+- [Rishika Ghosh](https://github.com/RishikaGhosh/RishikaGhosh)
 - [KelviNosse](https://github.com/KelviNosse/KelviNosse)
 - [nilfalse](https://github.com/nilfalse/nilfalse)
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
