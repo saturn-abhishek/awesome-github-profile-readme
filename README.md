@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [GabrielBaiano](https://github.com/GabrielBaiano/GabrielBaiano)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
@@ -85,6 +86,7 @@
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
 
 #### Game Mode 🚀
+- [GabrielBaiano](https://github.com/GabrielBaiano/GabrielBaiano)
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 - [Kavish Hukmani](https://github.com/DoubleGremlin181/DoubleGremlin181)
@@ -122,6 +124,7 @@
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 
 #### A Little Bit of Everything 😃
+- [GabrielBaiano](https://github.com/GabrielBaiano/GabrielBaiano)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
