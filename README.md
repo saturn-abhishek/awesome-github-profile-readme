@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [Thirosh Madhusha](https://github.com/ThiroshMadhusha/ThiroshMadhusha)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
@@ -104,6 +105,7 @@
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
+- [Thirosh Madhusha](https://github.com/ThiroshMadhusha/ThiroshMadhusha)
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
