@@ -191,6 +191,7 @@
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
 
 #### Anime 👾
+- [RÆIN](https://github.com/lcy101u)
 - [Ing](https://github.com/innng/innng)
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
@@ -219,6 +220,7 @@
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
 
 #### GIFS 👻
+- [RÆIN](https://github.com/lcy101u)
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
