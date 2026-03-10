@@ -36,6 +36,7 @@
       - [Typing.. Mode 🎰](#typing-mode-)
       - [Anime 👾](#anime-)
       - [Minimalistic ✨](#minimalistic-)
+      - [My Awesome Github Profile 💎](#my-awesome-github-profile-)
       - [GIFS 👻](#gifs-)
       - [Just Images 🎭](#just-images-)
       - [Badges 🎫](#badges-)
@@ -217,6 +218,9 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
+
+#### My Awesome Github Profile 💎
+- [Moacir Petry](https://github.com/MoacirPetry)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
