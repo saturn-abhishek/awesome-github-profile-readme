@@ -99,6 +99,7 @@
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
 - [Kiho](https://github.com/monkindey/monkindey)
+- [Ayush Chintalwar](https://github.com/4yu5h-crtl/4yu5h-crtl)
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
