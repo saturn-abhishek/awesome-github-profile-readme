@@ -182,6 +182,7 @@
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
 
+- [Sagar Gupta](https://github.com/Sagargupta16/Sagargupta16)
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
