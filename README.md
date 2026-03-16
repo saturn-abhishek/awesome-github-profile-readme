@@ -149,8 +149,6 @@
 - [Magrelaio](https://github.com/Magrelaio/Magrelaio)
 
 #### Descriptive 🗒
-
-- [Arjun Dholakiya](https://github.com/arjun-dholakiya/arjun-dholakiya) - Full-stack developer focused on MERN stack, backend systems, and DSA.
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
@@ -161,6 +159,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
+- [Arjun Dholakiya](https://github.com/arjun-dholakiya/arjun-dholakiya) - Full-stack developer focused on MERN stack backend systems, and DSA.
 
 #### Simple but Innovative Ones 🤗
 
