@@ -28,7 +28,7 @@
   - [Categories](#categories)
       - [GitHub Actions 🤖](#github-actions-)
       - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-%E2%80%8D)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
       - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
       - [Descriptive 🗒](#descriptive-)
