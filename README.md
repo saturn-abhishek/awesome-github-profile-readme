@@ -322,6 +322,8 @@
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
 
+- [GodProfile MCP](https://github.com/Luc0-0/GodProfile) - MCP server that generates animated glassmorphic SVGs for GitHub profile READMEs. 16 tools: animated terminals, neural tech maps, live GitHub stat trophies, WakaTime charts, and Spotify cards. Pure Python stdlib, zero external dependencies.
+
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 - ["How to Stand Out on Github with Profile READMEs"](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f) - *Jessica Lim*
