@@ -181,6 +181,7 @@
 - [Onimur](https://github.com/onimur/onimur)
 - [Bruno Tacca](https://github.com/brunotacca/brunotacca)
 - [Matthew Taylor](https://github.com/Wrapperup/Wrapperup)
+- [Stefani Gifta Ganda](https://github.com/stefani-gifta/stefani-gifta)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -306,8 +307,10 @@
 - [StackOverflow Stats Badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this Unique StackOverflow Badge!
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
+- [Transparent Profile Readme Stats](https://github.com/rahul-jha98/github-stats-transparent?tab=readme-ov-file) - [Github Action] Automatically generate summary GitHub statistics images
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [Github Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - Add GitHub summary card for profile README
 - [Github Readme Twitter](https://github.com/gazf/github-readme-twitter) - Show your latest tweet on your readmes.
 - [Random Dev Memes](https://github.com/techytushar/random-memer) - Random dev memes to display on your GitHub README.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
@@ -318,6 +321,8 @@
 - [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+- [Github Profile 3D Contribution](https://github.com/marketplace/actions/github-profile-3d-contrib) - Generate profile 3D Contributions
+- [GitHub Repository Topics/Labels Word Cloud Generator](https://github.com/marketplace/actions/word-cloud-repo-topics) - Generate word cloud from repository topics
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
