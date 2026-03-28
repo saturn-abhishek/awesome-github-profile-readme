@@ -25,28 +25,29 @@
 </div>
 
 ### Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Categories](#categories)
+    - [GitHub Actions 🤖](#github-actions-)
+    - [Game Mode 🚀](#game-mode-)
+    - [Code Mode 👨🏽‍💻](#code-mode-)
+    - [Dynamic Realtime 💫](#dynamic-realtime-)
+    - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+    - [Descriptive 🗒](#descriptive-)
+    - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+    - [Typing.. Mode 🎰](#typing-mode-)
+    - [Anime 👾](#anime-)
+    - [Minimalistic ✨](#minimalistic-)
+    - [GIFS 👻](#gifs-)
+    - [Just Images 🎭](#just-images-)
+    - [Badges 🎫](#badges-)
+    - [Fancy Fonts 🖋](#fancy-fonts-)
+    - [Icons 🎯](#icons-)
+    - [Retro 😎](#retro-)
+- [Tools](#tools)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Contribute](#contribute)
+- [Special Thanks 🙇](#special-thanks-)
+- [License](#license)
 
 
 ## Categories
@@ -308,6 +309,7 @@
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [GitHub Profile Trophy: Games Edition](https://github.com/harshitt13/github-profile-trophy-games-edition) - 🏆 Add dynamically generated GitHub Stat Trophies with League of Legends rank icons on your readme.
 - [Github Readme Twitter](https://github.com/gazf/github-readme-twitter) - Show your latest tweet on your readmes.
 - [Random Dev Memes](https://github.com/techytushar/random-memer) - Random dev memes to display on your GitHub README.
 - [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
