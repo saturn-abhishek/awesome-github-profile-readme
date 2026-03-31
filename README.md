@@ -86,6 +86,7 @@
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
+- [KanteshMurade](https://github.com/KanteshMurade)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 - [Kavish Hukmani](https://github.com/DoubleGremlin181/DoubleGremlin181)
 - [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
