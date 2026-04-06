@@ -83,6 +83,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for GitHub workflow automation, multi-agent orchestration, and development coordination. MIT licensed.
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
