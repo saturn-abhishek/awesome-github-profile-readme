@@ -83,7 +83,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
-- [Jérémy Parrot](https://github.com/jeremy-prt/jeremy-prt)
+- [Jérémy Perret](https://github.com/jeremy-prt/jeremy-prt)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
