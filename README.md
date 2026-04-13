@@ -189,6 +189,7 @@
 - [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
 - [Mason Slover](https://github.com/MasonSlover/MasonSlover)
 - [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
+- [Alan Hernandez](https://github.com/ahernandez-developer/ahernandez-developer)
 
 #### Anime 👾
 - [Ing](https://github.com/innng/innng)
