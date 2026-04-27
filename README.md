@@ -110,6 +110,7 @@
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
+- [Johannes Hoersch](https://github.com/Johannsis/Johannsis)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [Andrew Young](https://github.com/andyruwruw/andyruwruw)
 - [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj)
