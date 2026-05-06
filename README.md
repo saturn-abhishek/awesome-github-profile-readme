@@ -141,6 +141,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [Ahmed M. Abd ElGhany](https://github.com/fighteros/fighteros)
 - [Magrelaio](https://github.com/Magrelaio/Magrelaio)
 
 #### Descriptive 🗒
