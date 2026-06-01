@@ -70,6 +70,7 @@
 - [liununu](https://github.com/liununu/liununu)
 - [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
 - [Moe Poi ~](https://github.com/moepoi/moepoi)
+- [Nitesh Chourasiya](https://github.com/jattu8602/jattu8602)
 - [Elon Tang (blackcater)](https://github.com/blackcater/blackcater)
 - [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
 - [Akshit Garg (gargakshit)](https://github.com/gargakshit/gargakshit)
