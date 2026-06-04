@@ -142,6 +142,7 @@
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
 - [Magrelaio](https://github.com/Magrelaio/Magrelaio)
+- [Thibault Garel](https://github.com/Thibault-GAREL/Thibault-GAREL)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -239,6 +240,7 @@
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
 - [Somnath Paul](https://github.com/SP-XD/SP-XD)
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
+- [Thibault Garel](https://github.com/Thibault-GAREL/Thibault-GAREL)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -260,6 +262,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Thibault Garel](https://github.com/Thibault-GAREL/Thibault-GAREL)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
