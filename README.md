@@ -295,6 +295,7 @@
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
 - [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
+- [Dev Wrapped](https://github.com/HMAKT99/Dev_Wrapped) - Get a dynamically generated "year in code" card for your README — commits, streaks, top languages, and your developer persona
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Profile README Widgets](https://github.com/marketplace/actions/profile-readme) - Add simple widgets to your profile readme.
 - [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) - Generate your Spotify now playing card for your GitHub profile
