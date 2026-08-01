@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [0x142857](https://github.com/0x1428571429/0x1428571429)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
