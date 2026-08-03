@@ -104,6 +104,7 @@
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
+- [Tajang](https://github.com/TajangSec/TajangSec)
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
@@ -249,6 +250,7 @@
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 
 #### Badges 🎫
+- [Tajang](https://github.com/TajangSec/TajangSec)
 - [Harish Kumar S S](https://github.com/harish-sethuraman/harish-sethuraman)
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 - [Brendon Smith](https://github.com/br3ndonland/br3ndonland)
