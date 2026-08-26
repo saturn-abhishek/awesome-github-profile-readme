@@ -144,6 +144,7 @@
 - [Magrelaio](https://github.com/Magrelaio/Magrelaio)
 
 #### Descriptive 🗒
+- [Rafael Florindo](https://github.com/RafaellFlorindo/RafaellFlorindo)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
