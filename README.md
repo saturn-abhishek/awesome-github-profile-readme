@@ -52,6 +52,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
+- [TECH WITH ANUPAM](https://github.com/tech.anupam) [AI & Tech Creator | Developer]
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
